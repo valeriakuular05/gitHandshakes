@@ -2,7 +2,6 @@ import networkx as nx
 
 # creating a programmer graph
 def gr(data_dict):
-    # new comment
     sources = list(data_dict.keys())
     # getting a set of programmers
     commiters = set()
