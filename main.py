@@ -1,6 +1,6 @@
 from libs.func import collect_data, startProg
 from libs.graph import gr, max_handshakes
-import json, os
+import json
 
 
 res_of_start = startProg() # [--input, --output]

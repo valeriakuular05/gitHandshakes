@@ -5,9 +5,9 @@ def gr(data_dict):
     sources = list(data_dict.keys())
     # getting a set of programmers
     commiters = set()
-    commiters = data_dict.get(sources[0])
-    for set_of_programmer in data_dict.keys():
-        commiters = commiters.union(data_dict.get(set_of_programmer))
+    commiters = set(data_dict.get(sources[0]))
+    for list_of_programmer in data_dict.keys():
+        commiters = commiters.union(set(data_dict.get(list_of_programmer)))
     # creating a graph object
     G = nx.Graph() 
     handshake = [] # edges

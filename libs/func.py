@@ -2,17 +2,40 @@ from git import Repo, exc
 import sys
 import json
 import os
-import pprint
+import argparse
 
+def startProg():
+    parser = argparse.ArgumentParser(description='gitHandshakes project')
+    parser.add_argument('--input', type=str, help="Введите входной repo")
+    parser.add_argument('--output', type=str, help='Введите name.json')
+    args = parser.parse_args()
+    path_to_data_json = f'{os.getcwd()}/data/{args.output}'
+    if (args.input == None and args.output == None):
+        print("Введите данные!")
+        sys.exit()
+    else: 
+        if ((args.input == None) and (os.path.exists(path_to_data_json))):
+            return [None , path_to_data_json]# true - json exists, start with the 2nd part of the program
+        else: 
+            if ((args.input == None) and os.path.exists(path_to_data_json) == False):
+                print("Неккоректно введены данные --output")
+                sys.exit()
+            else:
+                if ((args.input) and args.output == None):
+                    parts = args.input.split("/")
+                    last_word = parts[-1]
+                    return [args.input ,f'{os.getcwd()}/data/{last_word}.json']
+                else: 
+                    return [args.input, f'{os.getcwd()}/data/{args.output}']
 
-def collect_data(path):
+def collect_data(res_of_start):
     try:
-        repo = Repo(path)
+        repo = Repo(res_of_start[0])
     except exc.InvalidGitRepositoryError:
-        print(f"{path} не является Git-репозиторием.")
+        print(f"{res_of_start[0]} не является Git-репозиторием.")
         sys.exit()
     except exc.NoSuchPathError:
-        print(f"Путь {path} не существует.")
+        print(f"Путь {res_of_start[0]} не существует.")
         sys.exit()
     # getting a list of recent commits
     try:
@@ -25,10 +48,9 @@ def collect_data(path):
     data_dict = creat_dict(commits)
     data_dict = filtering_source_with_one_programmer(data_dict) # deleting source with one programmer
     # print(data_dict)
-    if saved_to_json(data_dict):
-        print("json")
-        return data_dict
-    return data_dict
+    fileNameJson = res_of_start[1]
+    saved_to_json(data_dict, fileNameJson)
+    # return f'{fileNameJson}.json'
 
 # creating dictionary - key: file, value: commiters  
 def creat_dict(commits):
@@ -63,8 +85,7 @@ def filtering_source_with_one_programmer(data_dict):
         data_dict.pop(source)
     return data_dict
 
-def saved_to_json(data_dict):
-    file_path = f'{os.getcwd()}/data/data_test.json'
+def saved_to_json(data_dict, file_path):
     with open(file_path, "w", encoding="utf-8") as f:
         json.dump(data_dict, f, ensure_ascii=False, indent=4)
         return True

@@ -1,0 +1,2003 @@
+{
+    "extras/httpie-completion.fish": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Pablo Santiago Blum de Aguiar scorphus@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jannik Vieten me@exploide.net",
+        "Dennis Heinrich der@dennis-heinri.ch",
+        "ash ash@sorrel.sh"
+    ],
+    "extras/man/http.1": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "github-actions[bot] 41898282+github-actions[bot]@users.noreply.github.com"
+    ],
+    "extras/man/httpie.1": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "github-actions[bot] 41898282+github-actions[bot]@users.noreply.github.com"
+    ],
+    "extras/man/https.1": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "github-actions[bot] 41898282+github-actions[bot]@users.noreply.github.com"
+    ],
+    "CHANGELOG.md": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "dkreeft 37153972+dkreeft@users.noreply.github.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/__init__.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    ".github/workflows/tests.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Aliaksei Urbanski aliaksei.urbanski@gmail.com",
+        "dependabot[bot] 49699333+dependabot[bot]@users.noreply.github.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/compat.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Marc Abramowitz marc@marc-abramowitz.com",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "httpie/ssl_.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "C-A de Salaberry cadesalaberry@yahoo.com",
+        "Adam Williamson adam@blueradius.ca",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "setup.cfg": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mathieu Dupuy deronnax@gmail.com",
+        "Almad almad@apible.io",
+        "Miro Hrončok miro@hroncok.cz",
+        "Adam Williamson adam@blueradius.ca",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Shageldi Ovezov 44060682+ovezovs@users.noreply.github.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "docs/README.md": [
+        "André Srinivasan andre.srinivasan@gmail.com",
+        "Arthur 82575487+arthur-mountain@users.noreply.github.com",
+        "Nguyễn Hồng Quân ng.hong.quan@gmail.com",
+        "Vivaan Verma doublevcodes@gmail.com",
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Aolin aolinz@outlook.com",
+        "Ethan Mills ethan.mills@hotmail.co.uk",
+        "jakubroztocil jakubroztocil@users.noreply.github.com",
+        "Sid 122173059+hugo-sid@users.noreply.github.com",
+        "Jan Brašna 1784648+janbrasna@users.noreply.github.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Greg Myers myersg86@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Boris Verkhovskiy boris.verk@gmail.com",
+        "Rudolf Olah 89982117+rudolfolah@users.noreply.github.com",
+        "Jan Brasna 1784648+janbrasna@users.noreply.github.com",
+        "Hoylen Sue hoylen@hoylen.com",
+        "Sebastian Stasiak arionw@live.com",
+        "Nate Prewitt nate.prewitt@gmail.com",
+        "Miro Hrončok miro@hroncok.cz",
+        "dkreeft 37153972+dkreeft@users.noreply.github.com",
+        "github-actions[bot] 41898282+github-actions[bot]@users.noreply.github.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "Makefile": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mathieu Dupuy deronnax@gmail.com",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Shageldi Ovezov 44060682+ovezovs@users.noreply.github.com",
+        "a1346054 36859588+a1346054@users.noreply.github.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    "setup.py": [
+        "Jakub Roztočil jakub@roztocil.co",
+        "Laurent Bachelier laurent@bachelier.name",
+        "Corey Farwell coreyf@rwell.org",
+        "Marc Abramowitz marc@marc-abramowitz.com",
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Aliaksei Urbanski aliaksei.urbanski@gmail.com",
+        "Tim Martin tim@timmart.in",
+        "Luis San Martin lsanmartinr@gmail.com",
+        "Michael Floering mfloering@veracode.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mathieu Dupuy deronnax@gmail.com",
+        "Chris Faulkner thefaulkner@gmail.com",
+        "Eugene Duboviy eugene.dubovoy@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakob Kramer jakob.kramer@gmx.de",
+        "Rubén Durán Balda ruduran@users.noreply.github.com",
+        "Shubhendra Singh Chauhan withshubh@gmail.com",
+        "Matt Hickford matt.hickford@gmail.com",
+        "Rémy HUBSCHER rhubscher@mozilla.com",
+        "Brad Solomon brad.solomon.1124@gmail.com",
+        "Miro Hrončok miro@hroncok.cz",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Tomek Wójcik labs@tomekwojcik.pl",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/utils/__init__.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mathieu Dupuy deronnax@gmail.com",
+        "Miro Hrončok miro@hroncok.cz",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "luzpaz luzpaz@users.noreply.github.com"
+    ],
+    "tests/conftest.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Miro Hrončok miro@hroncok.cz",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/test_auth.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.co",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Nicolas Beltran nb2838@columbia.edu",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Luis San Martin lsanmartinr@gmail.com",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    "tests/test_binary.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/test_cli.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.co",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Pedro Rodrigues medecau@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/test_compress.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/test_config.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "darshanime deathbullet@gmail.com",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Ash Holland ash@sorrel.sh",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/test_cookie_on_redirects.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "tests/test_defaults.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/test_downloads.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Nicolas Beltran nb2838@columbia.edu",
+        "Jan Verbeek jan.verbeek@posteo.nl",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Shubhendra Singh Chauhan withshubh@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/test_encoding.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/test_exit_status.py": [
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com"
+    ],
+    "tests/test_output.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Nicolas Beltran nb2838@columbia.edu",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "dkreeft 37153972+dkreeft@users.noreply.github.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Dennis Brakhane dennis.brakhane@inoio.de",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/test_redirects.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/test_regressions.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/test_sessions.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Katherine Bancroft katherine.bancroft@gmail.com",
+        "Ilya Sukhanov ilya@sukhanov.net",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Eyitayo Ogunbiyi eyitayoogunbiyi@gmail.com",
+        "Jakub Roztočil jakub@roztocil.co",
+        "Semen Zhydenko simeon.zhidenko@gmail.com",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Gian Ortiz brksgian@gmail.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Sebastian Czech sebaczech@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Denis Belavin 41421345+LuckyDenis@users.noreply.github.com",
+        "Marc Abramowitz marc@marc-abramowitz.com",
+        "Luis San Martin lsanmartinr@gmail.com",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    "tests/test_stream.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Brian Egleston github@kamash.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/test_uploads.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.co",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jan Verbeek jan.verbeek@posteo.nl",
+        "Miro Hrončok miro@hroncok.cz",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Carlo Sciolla skuro@skuro.tk",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Luis San Martin lsanmartinr@gmail.com",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    "tests/test_windows.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/test_update_warnings.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "README.md": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Motahhar Mokfi 78138597+motahharm@users.noreply.github.com",
+        "TAKAHASHI Shuuji shuuji3@gmail.com",
+        "Chris Faulkner thefaulkner@gmail.com",
+        "Ben Chatelain phatblat@users.noreply.github.com",
+        "Matthieu LAURENT matthieu.laurent69@protonmail.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "docs/installation/methods.yml": [
+        "chrysle fritzihab@posteo.de",
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Sebastian Stasiak arionw@live.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Miro Hrončok miro@hroncok.cz",
+        "vostok92 540339+vostok92@users.noreply.github.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jan Brasna 1784648+janbrasna@users.noreply.github.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Vivaan Verma doublevcodes@gmail.com"
+    ],
+    ".github/workflows/release-linux-standalone.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "dependabot[bot] 49699333+dependabot[bot]@users.noreply.github.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "AUTHORS.md": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "CONTRIBUTING.md": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Girish Sharma girishsharma001@gmail.com",
+        "Jan Brašna 1784648+janbrasna@users.noreply.github.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "hosseingt hosseingt@gmail.com"
+    ],
+    "MANIFEST.in": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Chris Faulkner thefaulkner@gmail.com",
+        "Laurent Bachelier laurent@bachelier.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "docs/packaging/README.md": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/brew/README.md": [
+        "Standa Opichal opichals@gmail.com",
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/brew/httpie.rb": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/linux-arch/PKGBUILD": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/linux-debian/README.md": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/linux-fedora/README.md": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Miro Hrončok miro@hroncok.cz",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/linux-fedora/httpie.spec.txt": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/mac-ports/README.md": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/snapcraft/README.md": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/windows-chocolatey/README.md": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/windows-chocolatey/httpie.nuspec": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "extras/packaging/linux/README.md": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "luzpaz luzpaz@users.noreply.github.com"
+    ],
+    "extras/profiling/README.md": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Girish Sharma girishsharma001@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "luzpaz luzpaz@users.noreply.github.com"
+    ],
+    "extras/profiling/run.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Girish Sharma girishsharma001@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "httpie/cli/definition.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Nicolas Beltran nb2838@columbia.edu",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "dkreeft 37153972+dkreeft@users.noreply.github.com",
+        "Carlo Sciolla skuro@skuro.tk",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/client.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.co",
+        "Ilya Sukhanov ilya@sukhanov.net",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Rémy HUBSCHER rhubscher@mozilla.com",
+        "Aleksandr Vinokurov aleksandr.vin@gmail.com",
+        "Abdelhakim Qbaich abdelq@users.noreply.github.com",
+        "Matt Layman matthewlayman@gmail.com",
+        "Joao Delgado joaomtdelgado@gmail.com",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Matthias Lehmann ml@qsensei.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "nixbytes real8686@gmail.com",
+        "Eyitayo Ogunbiyi eyitayoogunbiyi@gmail.com",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    "httpie/downloads.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jan Verbeek jan.verbeek@posteo.nl",
+        "Tim Gates tim.gates@iress.com",
+        "Mio inory009@gmail.com",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Anton Emelyanov ainzzorl+github@pm.me"
+    ],
+    "httpie/plugins/builtin.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "snapcraft.yaml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Omer Akram om26er@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Gaurav graheja1997@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/README.md": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/test_httpie.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Aleksandr Vinokurov aleksandr.vin@gmail.com",
+        "Abdelhakim Qbaich abdelq@users.noreply.github.com",
+        "Alexander Nelzin asnelzin@gmail.com",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Shubhendra Singh Chauhan withshubh@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/test_ssl.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Pablo Santiago Blum de Aguiar scorphus@gmail.com",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "matthewhughes934 34972397+matthewhughes934@users.noreply.github.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Marc Abramowitz marc@marc-abramowitz.com",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    ".github/workflows/content.yml": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "extras/scripts/generate_man_pages.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "httpie/output/ui/man_pages.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    ".github/workflows/autogenerated-files.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "dependabot[bot] 49699333+dependabot[bot]@users.noreply.github.com",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    ".github/workflows/release-snap.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "dependabot[bot] 49699333+dependabot[bot]@users.noreply.github.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "luzpaz luzpaz@users.noreply.github.com"
+    ],
+    ".github/workflows/docs-deploy.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/models.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Ilya Sukhanov ilya@sukhanov.net",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Abdelhakim Qbaich abdelq@users.noreply.github.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jason Dusek jason.dusek@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/test_plugins_cli.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "luzpaz luzpaz@users.noreply.github.com"
+    ],
+    "httpie/context.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Nicolas Beltran nb2838@columbia.edu",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Michael Sloan mgsloan@gmail.com",
+        "luzpaz luzpaz@users.noreply.github.com"
+    ],
+    ".github/workflows/stale.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "dependabot[bot] 49699333+dependabot[bot]@users.noreply.github.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/manager/__main__.py": [
+        "Nishant Sikarwar nsikarwar@ch.iitr.ac.in",
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/manager/compat.py": [
+        "Nishant Sikarwar nsikarwar@ch.iitr.ac.in",
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    ".github/workflows/release-brew.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "dependabot[bot] 49699333+dependabot[bot]@users.noreply.github.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/cli/dicts.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "httpie/cli/nested_json.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "httpie/cli/nested_json/__init__.py": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "httpie/cli/nested_json/errors.py": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "httpie/cli/nested_json/interpret.py": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "httpie/cli/nested_json/parse.py": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "httpie/cli/nested_json/tokens.py": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "httpie/cli/requestitems.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Carlo Sciolla skuro@skuro.tk",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Shubhendra Singh Chauhan withshubh@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/core.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.co",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "KATO Kei k4t0.kei@gmail.com",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "dkreeft 37153972+dkreeft@users.noreply.github.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Pedro Rodrigues medecau@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Shubhendra Singh Chauhan withshubh@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Marc Abramowitz marc@marc-abramowitz.com",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "httpie/utils.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Eyitayo Ogunbiyi eyitayoogunbiyi@gmail.com",
+        "Ilya Sukhanov ilya@sukhanov.net",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.co",
+        "Denis Belavin 41421345+LuckyDenis@users.noreply.github.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Matthias Lehmann ml@qsensei.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "SADIK KUZU sadikkuzu@hotmail.com",
+        "Luis San Martin lsanmartinr@gmail.com",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    "tests/test_json.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/contributors/README.md": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Kian-Meng Ang kianmeng.ang@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/installation/generate.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Kian-Meng Ang kianmeng.ang@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "extras/profiling/benchmarks.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Kian-Meng Ang kianmeng.ang@gmail.com",
+        "Tim Gates tim.gates@iress.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "luzpaz luzpaz@users.noreply.github.com"
+    ],
+    "httpie/output/ui/rich_utils.py": [
+        "Tim Gates tim.gates@iress.com",
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    ".github/workflows/benchmark.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "dependabot[bot] 49699333+dependabot[bot]@users.noreply.github.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    ".github/workflows/code-style.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "dependabot[bot] 49699333+dependabot[bot]@users.noreply.github.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    ".github/workflows/coverage.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "dependabot[bot] 49699333+dependabot[bot]@users.noreply.github.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    ".github/workflows/release-pypi.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "dependabot[bot] 49699333+dependabot[bot]@users.noreply.github.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/cli/constants.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Carlo Sciolla skuro@skuro.tk",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Shubhendra Singh Chauhan withshubh@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/internal/daemons.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "SADIK KUZU sadikkuzu@hotmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "extras/packaging/linux/build.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    ".github/workflows/release-choco.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/internal/daemon_runner.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/output/writer.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Brian Egleston github@kamash.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/contributors/fetch.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/contributors/generate.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/contributors/people.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/contributors/snippet.jinja2": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "extras/packaging/linux/Dockerfile": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/config.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "darshanime deathbullet@gmail.com",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Matthew Leather 39400458+matthew16550@users.noreply.github.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Ash Holland ash@sorrel.sh",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    "httpie/internal/__build_channel__.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/internal/__init__.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/internal/update_warnings.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/manager/cli.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/manager/tasks/__init__.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/manager/tasks/check_updates.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/manager/tasks/sessions.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/cli/options.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/output/ui/rich_help.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/output/ui/rich_palette.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/cli/argparser.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Nicolas Beltran nb2838@columbia.edu",
+        "Jan Verbeek jan.verbeek@posteo.nl",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Sebastian Czech sebaczech@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/output/ui/palette.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "httpie/output/formatters/colors.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Davorin Šego davorin.sego@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Dennis Brakhane dennis.brakhane@inoio.de",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Piotr Śliwka contact@psliwka.info",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "httpie/output/ui/rich_progress.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/sessions.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Katherine Bancroft katherine.bancroft@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Matthew Leather 39400458+matthew16550@users.noreply.github.com",
+        "Gian Ortiz brksgian@gmail.com",
+        "asavchyn asavchyn@lohika.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Simon Buchan simon.buchan.nz@gmail.com",
+        "Eyitayo Ogunbiyi eyitayoogunbiyi@gmail.com",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    ".packit.yaml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Miro Hrončok miro@hroncok.cz"
+    ],
+    "httpie/manager/tasks/plugins.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "luzpaz luzpaz@users.noreply.github.com"
+    ],
+    "httpie/plugins/manager.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.co",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Matt Layman matthewlayman@gmail.com",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "luzpaz luzpaz@users.noreply.github.com"
+    ],
+    "tests/test_cli_utils.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "luzpaz luzpaz@users.noreply.github.com"
+    ],
+    "docs/stardust.png": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    ".gitignore": [
+        "Jakob Krigovsky jakob@krigovsky.com",
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Miro Hrončok miro@hroncok.cz",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Shageldi Ovezov 44060682+ovezovs@users.noreply.github.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Marc Abramowitz marc@marc-abramowitz.com",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "docs/markdownlint.rb": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/brew/brew-deps.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr"
+    ],
+    "docs/packaging/brew/update.sh": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/linux-fedora/update.sh": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "extras/packaging/linux/get_release_artifacts.sh": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "extras/packaging/linux/scripts/hooks/hook-pip.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "extras/packaging/linux/scripts/http_cli.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "extras/packaging/linux/scripts/httpie_cli.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/uploads.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com"
+    ],
+    ".github/workflows/docs-update-install.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "dependabot[bot] 49699333+dependabot[bot]@users.noreply.github.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Mickaël Schoentgen contact@tiger-222.fr"
+    ],
+    "httpie/cli/utils.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/test_cli_ui.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/test_parser_schema.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/utils/plugins_cli.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/cookies.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/utils/http_server.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/legacy/v3_1_0_session_cookie_format.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/legacy/v3_2_0_session_header_format.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/new/cookies_dict.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/new/cookies_dict_dev_version.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/new/cookies_dict_with_extras.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/new/empty_cookies_dict.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/new/empty_cookies_list.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/new/empty_headers_dict.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/new/empty_headers_list.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/new/headers_cookies_dict_mixed.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/new/headers_dict.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/new/headers_dict_extras.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/new/headers_list.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/old/cookies_dict.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/old/cookies_dict_dev_version.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/old/cookies_dict_with_extras.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/old/empty_cookies_dict.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/old/empty_cookies_list.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/old/empty_headers_dict.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/old/empty_headers_list.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/old/headers_cookies_dict_mixed.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/old/headers_dict.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/old/headers_dict_extras.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/session_data/old/headers_list.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/manager/core.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/manager/tasks/export_args.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    ".github/workflows/release.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "dependabot[bot] 49699333+dependabot[bot]@users.noreply.github.com",
+        "Mickaël Schoentgen contact@tiger-222.fr"
+    ],
+    "httpie/output/models.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/output/streams.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/test_httpie_cli.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "SECURITY.md": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "httpie/legacy/__init__.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/__init__.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "httpie/cli/argtypes.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/client_certs/password_protected/client.key": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/client_certs/password_protected/client.pem": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/output/lexers/http.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    ".github/workflows/docs-check-markdown.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "dependabot[bot] 49699333+dependabot[bot]@users.noreply.github.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    ".github/workflows/test-package-linux-snap.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "dependabot[bot] 49699333+dependabot[bot]@users.noreply.github.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    ".github/workflows/test-package-mac-brew.yml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "dependabot[bot] 49699333+dependabot[bot]@users.noreply.github.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "pytest.ini": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    "LICENSE": [
+        "Jakub Roztočil jakub@roztocil.co",
+        "Willson Mock willson.mock@gmail.com",
+        "Prayag Verma prayag.verma@gmail.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Marcos Chicote totochicote@gmail.com",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    "httpie/output/lexers/metadata.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "tests/test_meta.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "tests/utils/matching/test_matching.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/config.json": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/linux-alpine/APKBUILD": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr"
+    ],
+    "docs/packaging/linux-alpine/README.md": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr"
+    ],
+    "docs/packaging/linux-aosc/README.md": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr"
+    ],
+    "docs/packaging/linux-aosc/autobuild/defines": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr"
+    ],
+    "docs/packaging/linux-aosc/spec": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr"
+    ],
+    "docs/packaging/linux-gentoo/Manifest": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr"
+    ],
+    "docs/packaging/linux-gentoo/README.md": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr"
+    ],
+    "docs/packaging/linux-gentoo/httpie-2.6.0.ebuild": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr"
+    ],
+    "docs/packaging/linux-gentoo/metadata.xml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr"
+    ],
+    "docs/packaging/linux-void/README.md": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr"
+    ],
+    "docs/packaging/linux-void/template": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr"
+    ],
+    "docs/packaging/mac-ports/Portfile": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/spack/README.md": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr"
+    ],
+    "docs/packaging/spack/package.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr"
+    ],
+    "httpie/output/lexers/common.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/output/processing.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "httpie/plugins/base.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/test_tokens.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Miro Hrončok miro@hroncok.cz",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/utils/matching/parsing.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com"
+    ],
+    "tests/utils/matching/tokens.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "tests/test_errors.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Marc Abramowitz marc@marc-abramowitz.com"
+    ],
+    "httpie/encoding.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/output/ui/__init__.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/output/formatters/xml.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/valid/custom-header.xml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/valid/custom-header_formatted.xml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/valid/simple-ns_formatted.xml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/valid/simple-single-tag_formatted.xml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/valid/simple-single-tag_raw.xml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/valid/simple_formatted.xml": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/plugins/registry.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/manager/__init__.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/adapters.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/ssl.py": [
+        "Batuhan Taskaya isidentical@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    ".github/ISSUE_TEMPLATE/bug_report.md": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Elena Lape elapinskaite@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "a1346054 36859588+a1346054@users.noreply.github.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "extras/httpie-completion.bash": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Gaurav graheja1997@gmail.com",
+        "a1346054 36859588+a1346054@users.noreply.github.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/output/lexers/json.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/windows-chocolatey/tools/chocolateyinstall.ps1": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/installation/installation.jinja2": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/windows-chocolatey/tools/chocolateyuninstall.ps1": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/output/utils.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/test_unicode.py": [
+        "Jakub Roztocil jakub@roztocil.name",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com"
+    ],
+    "tests/test_xml.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/linux-arch/README.md": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/packaging/linux-centos/README.md": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "docs/installation/README.md": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/test_with_dupe_keys.json": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/output/formatters/json.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "httpie/output/lexers/__init__.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    ".github/workflows/update-documentation.yml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    ".github/ISSUE_TEMPLATE/feature_request.md": [
+        "Elena Lape elapinskaite@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "CODE_OF_CONDUCT.md": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/test_docs.py": [
+        "Jakub Roztočil jakub@roztocil.co",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Roger Wernersson roger.wernersson@factor10.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Luis San Martin lsanmartinr@gmail.com",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    ".github/workflows/build.yml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Dustin Rodrigues dust.rod@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "extras/brew-deps.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "extras/httpie.rb": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jeff Byrnes thejeffbyrnes@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "docs/httpie-logo.svg": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "docs/httpie-animation.gif": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "httpie.png": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "AUTHORS.rst": [
+        "Jakub Roztočil jakub@roztocil.co",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jeff Byrnes thejeffbyrnes@gmail.com",
+        "honorabrutroll edward.yang6771@gmail.com",
+        "Aleksandr Vinokurov aleksandr.vin@gmail.com",
+        "ii-v iiv@openmailbox.org",
+        "Matt Layman matthewlayman@gmail.com",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Nathan LaFreniere quitlahok@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Dennis Brakhane dennis.brakhane@inoio.de",
+        "Matthias Lehmann ml@qsensei.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Denis Belavin 41421345+LuckyDenis@users.noreply.github.com",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    "CHANGELOG.rst": [
+        "Jakob Krigovsky jakob@krigovsky.com",
+        "Jakub Roztočil jakub@roztocil.co",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Ilya Sukhanov ilya@sukhanov.net",
+        "Nicolas Beltran nb2838@columbia.edu",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Carlo Sciolla skuro@skuro.tk",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Shageldi Ovezov 44060682+ovezovs@users.noreply.github.com",
+        "a1346054 36859588+a1346054@users.noreply.github.com",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    "CONTRIBUTING.rst": [
+        "Jakob Krigovsky jakob@krigovsky.com",
+        "Jakub Roztočil jakub@roztocil.co",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Greg Back gback@mitre.org",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Syed GotoCode@users.noreply.github.com",
+        "Martin Hellspong martin.hellspong@factor10.com",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Shageldi Ovezov 44060682+ovezovs@users.noreply.github.com",
+        "Ankit R. Gadiya git@argp.in",
+        "a1346054 36859588+a1346054@users.noreply.github.com",
+        "Yann yannsalaun1@gmail.com",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    "README.rst": [
+        "Jakob Krigovsky jakob@krigovsky.com",
+        "Jakub Roztočil jakub@roztocil.co",
+        "Rocky Meza rocky@fusionbox.com",
+        "Marcel Stör marcelstoer@users.noreply.github.com",
+        "Ismail Badawi isbadawi@gmail.com",
+        "Syed GotoCode@users.noreply.github.com",
+        "0xflotus 0xflotus@gmail.com",
+        "Vladimir Berkutov dair.targ@gmail.com",
+        "Alexis Metaireau alexis@notmyidea.org",
+        "Nguyễn Hồng Quân ng.hong.quan@gmail.com",
+        "freddii freddii@users.noreply.github.com",
+        "Marc Abramowitz marc@marc-abramowitz.com",
+        "Doug Beney git__0hub@dougie.io",
+        "Katherine Bancroft katherine.bancroft@gmail.com",
+        "Andrew Marcinkevičius andrew.web@ifdattic.com",
+        "Nicolas Beltran nb2838@columbia.edu",
+        "Adam adam@lesniak.pl",
+        "Theodore Dubois tblodt@icloud.com",
+        "Jake Basile jakebasile@me.com",
+        "Ryan Lee to.be.impressive@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "David Oliver DavidOliver@users.noreply.github.com",
+        "Lorin Hochstein lorinh@gmail.com",
+        "henryhu712 henryhu712@gmail.com",
+        "Ildar Sagdejev specious@gmail.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Josh Ellithorpe quest@mac.com",
+        "Harkirat Singh harkirat1892@gmail.com",
+        "Nathan LaFreniere quitlahok@gmail.com",
+        "Roberto Desideri robertodesideri@outlook.com",
+        "Felix Bünemann buenemann@louis.info",
+        "Robert Benjamin rotberj@gmail.com",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "onnadi-sa 51714064+onnadi-sa@users.noreply.github.com",
+        "hoatle hoatle@teracy.com",
+        "Elena Lape elapinskaite@gmail.com",
+        "xcodz-dot 71920621+xcodz-dot@users.noreply.github.com",
+        "Rootul Patel rootulp@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Matthias Lehmann ml@qsensei.com",
+        "Kevin Velghe kevin@paretje.be",
+        "Simon Olofsson simon@olofsson.de",
+        "Kyle Mathews mathews.kyle@gmail.com",
+        "Yuri Malheiros yurimalheiros@gmail.com",
+        "Andreas Lappe nd@off-pist.de",
+        "Graeme West graeme.west@ncr.com",
+        "Alastair McGowan-Douglas altreus@altre.us",
+        "Ben Beuchler insyte@emt-p.org",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Andrew sheer.luck.andrew@gmail.com",
+        "Carlo Sciolla skuro@skuro.tk",
+        "Ash Holland ash@sorrel.sh",
+        "Ankit R. Gadiya git@argp.in",
+        "a1346054 36859588+a1346054@users.noreply.github.com",
+        "Michael Floering mfloering@veracode.com",
+        "Randy Ramos rramos1295@gmail.com"
+    ],
+    "tests/README.rst": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/valid/dtd_formatted.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/xhtml/xhtml_formatted.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/xhtml/xhtml_formatted_python_less_than_3.8.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/invalid/cyclic.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/invalid/external.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/invalid/external_file.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/invalid/not-xml.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/invalid/quadratic.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/invalid/xalan_exec.xsl": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/invalid/xalan_write.xsl": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/invalid/xmlbomb.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/invalid/xmlbomb2.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/valid/dtd_raw.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/valid/simple-ns_raw.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/valid/simple-standalone-no_formatted.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/valid/simple-standalone-no_raw.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/valid/simple-standalone-yes_formatted.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/valid/simple-standalone-yes_raw.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/valid/simple_raw.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/xmldata/xhtml/xhtml_raw.xml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/__main__.py": [
+        "Matthew M. Boedicker matthewm@boedicker.org",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jake Basile jakebasile@me.com",
+        "Miro Hrončok miro@hroncok.cz",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Vladimir Berkutov dair.targ@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Davey Shafik me@daveyshafik.com",
+        "Jakob Kramer jakob.kramer@gmx.de",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    ".github/dependabot.yml": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/test_cookie.py": [
+        "Ilya Sukhanov ilya@sukhanov.net",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/test_transport_plugin.py": [
+        "Ilya Sukhanov ilya@sukhanov.net",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/fixtures/.editorconfig": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "tests/fixtures/test.json": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/fixtures/test.txt": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/utils/matching/__init__.py": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com"
+    ],
+    "requirements-dev.txt": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Shageldi Ovezov 44060682+ovezovs@users.noreply.github.com",
+        "Rubén Durán Balda ruduran@users.noreply.github.com",
+        "Marc Abramowitz marc@marc-abramowitz.com",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "httpie/plugins/__init__.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/test_auth_plugins.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "tests/test_offline.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com",
+        "Jakub Roztočil jakub@roztocil.name"
+    ],
+    "httpie/output/formatters/headers.py": [
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com"
+    ],
+    "tests/__init__.py": [
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Mickaël Schoentgen mschoentgen@nuxeo.com"
+    ],
+    ".github/ISSUE_TEMPLATE/other.md": [
+        "Elena Lape elapinskaite@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "tests/utils.py": [
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "Nicolas Beltran nb2838@columbia.edu",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    ".github/FUNDING.yml": [
+        "Jakub Roztocil jakub@roztocil.co",
+        "Almad almad@apible.io"
+    ],
+    "tests/client_certs/client.crt": [
+        "matthewhughes934 34972397+matthewhughes934@users.noreply.github.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/client_certs/client.key": [
+        "matthewhughes934 34972397+matthewhughes934@users.noreply.github.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/client_certs/client.pem": [
+        "matthewhughes934 34972397+matthewhughes934@users.noreply.github.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tox.ini": [
+        "Jakub Roztočil jakub@roztocil.co",
+        "Matthew Leather 39400458+matthew16550@users.noreply.github.com",
+        "Eugene Duboviy eugene.dubovoy@gmail.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Shageldi Ovezov 44060682+ovezovs@users.noreply.github.com",
+        "Pedro Rodrigues medecau@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Marc Abramowitz marc@marc-abramowitz.com",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    "httpie/status.py": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    ".travis.yml": [
+        "Jakub Roztočil jakub@roztocil.co",
+        "cclauss cclauss@bluewin.ch",
+        "Matthew Leather 39400458+matthew16550@users.noreply.github.com",
+        "Eugene Duboviy eugene.dubovoy@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "James Jamtlu@gmail.com",
+        "Pedro Rodrigues medecau@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Corey Farwell coreyf@rwell.org",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Marc Abramowitz marc@marc-abramowitz.com",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "httpie/cli/__init__.py": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "httpie/cli/exceptions.py": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "httpie/input.py": [
+        "Jakub Roztočil jakub@roztocil.co",
+        "Mickaël Schoentgen contact@tiger-222.fr",
+        "honorabrutroll edward.yang6771@gmail.com",
+        "Lukasz Konopski ext.lukasz.konopski@dsv.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Marcin Szewczyk marcin.szewczyk@wodny.org",
+        "Alexander Nelzin asnelzin@gmail.com",
+        "Vladimir Berkutov dair.targ@gmail.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Nathan LaFreniere quitlahok@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "James Jamtlu@gmail.com",
+        "Lukasz Konopski konopski@users.noreply.github.com",
+        "Lucas Garron lgarron@chromium.org",
+        "Matthias Lehmann ml@qsensei.com",
+        "Michael Sloan mgsloan@gmail.com",
+        "Luis San Martin lsanmartinr@gmail.com",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    "httpie/cli.py": [
+        "Jakub Roztočil jakub@roztocil.co",
+        "Ismail Badawi isbadawi@gmail.com",
+        "Vladimir Berkutov dair.targ@gmail.com",
+        "Davey Shafik me@daveyshafik.com",
+        "Pedro Rodrigues medecau@gmail.com",
+        "Jake Basile jakebasile@me.com",
+        "Nathan LaFreniere quitlahok@gmail.com",
+        "dongweiming ciici123@hotmail.com",
+        "Luis San Martin lsanmartinr@gmail.com",
+        "Lucas Garron lgarron@chromium.org",
+        "Michael Floering mfloering@veracode.com",
+        "James Carr jc3212@ic.ac.uk",
+        "Aleksandr Vinokurov aleksandr.vin@gmail.com",
+        "Thomas LÉVEIL thomasleveil@users.noreply.github.com",
+        "Davorin Šego davorin.sego@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Matthias Lehmann ml@qsensei.com",
+        "Matúš Ferech matus.ferech@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    ".editorconfig": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "appveyor.yml": [
+        "Jakub Roztočil jakub@roztocil.co",
+        "Eugene Duboviy eugene.dubovoy@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    "httpie-completion.fish": [
+        "Jakub Roztočil jakub@roztocil.co",
+        "Jeff Dickey dickeyxxx@gmail.com"
+    ],
+    "tests/fixtures.py": [
+        "Jakub Roztočil jakub@roztocil.co",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Luis San Martin lsanmartinr@gmail.com",
+        "Michael Floering mfloering@veracode.com"
+    ],
+    "httpie-completion.bash": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Mihir Joshi mihir.coldplay@gmail.com",
+        "Jakub Roztocil jakub@roztocil.co"
+    ],
+    "httpie/output/formatters/__init__.py": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "httpie/output.py": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Rav Chandra rav@elysium.co.nz",
+        "Justin Bonnar justinbonnar@gmail.com",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "httpie/output/__init__.py": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "httpie/solarized.py": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakob Kramer jakob.kramer@gmx.de"
+    ],
+    "tests/fixtures/test.bin": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/tests.py": [
+        "Oleg Churkin bahusoff@gmail.com",
+        "Jake Basile jakebasile@me.com",
+        "Vladimir Berkutov dair.targ@gmail.com",
+        "Nathan LaFreniere quitlahok@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "httpie/cliparse.py": [
+        "Jake Basile jakebasile@me.com",
+        "Ismail Badawi isbadawi@gmail.com",
+        "Vladimir Berkutov dair.targ@gmail.com",
+        "Jakob Kramer jakob.kramer@gmx.de",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "httpie/httpmessage.py": [
+        "Vladimir Berkutov dair.targ@gmail.com",
+        "Cemal Eker cemaleker@gmail.com",
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakob Kramer jakob.kramer@gmx.de"
+    ],
+    "httpie/pretty.py": [
+        "Jökull Sólberg Auðunsson jokull@solberg.is",
+        "Mark Larus larusm@kenyon.edu",
+        "Isman Firmansyah isman@sixreps.com",
+        "Praful Mathur praful.mathur@gmail.com",
+        "Oleg Churkin oleg.churkin@inn.ru",
+        "Jakob Kramer jakob.kramer@gmx.de",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "tests/test_cliparse.py": [
+        "Vladimir Berkutov dair.targ@gmail.com",
+        "Jakub Roztocil jakub@roztocil.name"
+    ],
+    "httpie/pygson.py": [
+        "Jakub Roztocil jakub@roztocil.name",
+        "Jakob Kramer jakob.kramer@gmx.de"
+    ],
+    "tests.py": [
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakob Kramer jakob.kramer@gmx.de"
+    ],
+    "httpie/httpie.py": [
+        "Alen Mujezinovic flashingpumpkin@gmail.com",
+        "Chris Faulkner thefaulkner@gmail.com",
+        "Isman Firmansyah isman@sixreps.com",
+        "Praful Mathur praful.mathur@gmail.com",
+        "Jakub Roztočil jakub@roztocil.name",
+        "Jakub Roztocil jakub@roztocil.name"
+    ]
+}
